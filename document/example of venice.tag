@@ -1,0 +1,17 @@
+a               3471
+br              2723
+blockquote      655
+b               636
+p               118
+i               113
+td              61
+tr              61
+table           40
+body            21
+head            21
+html            21
+link            21
+meta            21
+title           21
+h3              20
+tbody           1
